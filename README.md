@@ -1,6 +1,6 @@
-# Network admin
+# ClinCode
 
-Este repositorio contiene scripts y herramientas para administración de redes.
+El siguiente repositorio tiene el codigo para generar codigo a partir de lenguaje natural con la api de Claude
 
 ## Ejecutar aplicación
 
